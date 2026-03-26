@@ -82,8 +82,8 @@ All scripts require only a standard **bash** shell and standard Linux utilities.
  
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/com00geek/oss-audit-24BCE10452.git
+cd oss-audit-24BCE10452
 ```
  
 ### Step 2 — Make scripts executable
